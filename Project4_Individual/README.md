@@ -13,8 +13,6 @@ How to Use It
 
 3. After running the script, view the results:
    - Lap Time and Lap Completion Results
-   - Battery SOC
-   - Braking forces (friction and regen)
 
 4. The simulation includes a condition to stop applying torque when SOC drops below 10%.
 
